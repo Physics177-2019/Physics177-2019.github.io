@@ -1,4 +1,4 @@
-# PHYS 177 Computational Physics
+# Physics 177: Computational Physics
 ### Winter 2019
 
 
