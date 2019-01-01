@@ -1,2 +1,5 @@
-# Physics177-2019.github.io
-Website for the UCR Physics 177 course, 2019 edition
+# Physics 177: Computational Physics
+
+[Syllabus](./syllabus.html)
+
+Information for the course, including homework assignments and information about exams, will be posted here as we progress through the quarter.
