@@ -5,7 +5,7 @@
 # Logistics
 
 ### Lecture
-MWF 5:10pm - 6:00pm, Physics 2104  
+MWF 5:10pm - 6:00pm, Physics 2111  
 Note: Computational work will be performed online and on your own computers, so we will *not* be using the computer labs.  
 
 ### Instructor
