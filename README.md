@@ -7,7 +7,9 @@ Information for the course, including homework assignments and information about
 
 ## Lectures
 
-Lecture 0 -- We began with a brief introduction to Physics 177. Computational methods are used across all physics disciplines. During this quarter, we'll consider a broad cross-sectional overview of numerical methods. [[slides](https://docs.google.com/presentation/d/1e_DADGGG-jxWuMM77yqZBbml25ItlAGIXIVb8c4HO34/edit?usp=sharing)]
+Lecture 0 -- We began with a brief introduction to Physics 177. Computational methods are used across all physics disciplines. During this quarter, we'll consider a broad cross-sectional overview of numerical methods. [[slides](https://docs.google.com/presentation/d/1e_DADGGG-jxWuMM77yqZBbml25ItlAGIXIVb8c4HO34/edit?usp=sharing)]  
+Lecture 1 -- We started to become familiar with the computational and organizational tools we'll be using this quarter: Python, Jupyter, and GitHub. [[slides](https://docs.google.com/presentation/d/1psQXmIiOB9k7jzUYAn0iMPfP5DaFF6zQ7NkxwhJG-YE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-1)]  
+Lecture 2 -- Real numbers are represented with finite numerical precision, which can have surprising consequences. [[slides](https://docs.google.com/presentation/d/17xPbJKHU4j6qgZ9KTQKYJ4ByJbX2EV2-_86DhZgFdrc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-2)]
 
 ## Homework
 
