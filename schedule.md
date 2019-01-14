@@ -7,14 +7,14 @@ Jan 09 (W) - Python, Jupyter, and GitHub
 Jan 11 (F) - Numerical precision  
 
 **Numerical integration (of integrals)**  
-Jan 14 (M) - Numerical integration I: Riemann sum and trapezoidal rule  
-Jan 16 (W) - Numerical integration II: Simpson's rule  
-Jan 18 (F) - Numerical integration III: Error estimation  
+Jan 14 (M) - Riemann sum and trapezoidal rule  
+Jan 16 (W) - Simpson's rule  
+Jan 18 (F) - Error estimation  
 
 **Numerical integration (of differential equations)**  
 Jan 21 (M) - **MLK Jr Day, no class**  
-Jan 23 (W) - Ordinary differential equations: Euler's method  
-Jan 25 (F) - Ordinary differential equations: Runge-Kutta method  
+Jan 23 (W) - Euler's method  
+Jan 25 (F) - Runge-Kutta method  
 
 *The schedule below this point is preliminary!*  
 
@@ -50,5 +50,5 @@ Mar 08 (F) -
 Mar 11 (M) -  
 Mar 13 (W) -  
 
-**Final exam**
+**Final exam**  
 Mar 15 (F) -  
