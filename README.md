@@ -19,6 +19,8 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 1** -- Introduction to Python, Jupyter, and Github [[assignment](https://classroom.github.com/a/D8ElyCbC)] [[repository](https://github.com/Physics177-2019/homework-1)]
 
+**Homework 2** -- Numerical integration [[assignment](https://classroom.github.com/a/B8seLY--)] [[repository](https://github.com/Physics177-2019/homework-2)] 
+
 
 ## Past versions of the course
 
