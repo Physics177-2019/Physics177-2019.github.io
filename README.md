@@ -13,6 +13,16 @@ Information for the course, including homework assignments and information about
 
 **Lecture 2** -- Real numbers are represented with finite numerical precision, which can have surprising consequences. [[slides](https://docs.google.com/presentation/d/17xPbJKHU4j6qgZ9KTQKYJ4ByJbX2EV2-_86DhZgFdrc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-2)]
 
+**Lecture 3** -- This lecture gave an overview of the Riemann sum and trapezoidal rule for numerical integration. [[slides](https://docs.google.com/presentation/d/1fUS5RxMuVOdT2PVUIuFO_gVxiDsbxhbpKDPMwaw-Cqw/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-3)]
+
+**Lecture 4** -- This time we covered Simpson's rule for numerical integration. [[slides](https://docs.google.com/presentation/d/1cfUQnty9q9oY1DA5GVrXsAkr30USlXsU1qwGcx1t8mk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-4)]
+
+**Lecture 5** -- We reviewed error analysis for numerical integrals, including an approximation for finding the error when we don't have an analytical expression for derivatives. [[slides](https://docs.google.com/presentation/d/1YixF6nGuq2cbPo7uG0gZWn3zlN8q5OGsQw-chBqYEDc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-5)]
+
+**Lecture 6** -- This lecture was our first introduction to numerical integration of ordinary differential equations, where we applied Euler's method. [[slides](https://docs.google.com/presentation/d/1tTsnTdeQs3ByZPXvDHLNLsC2694iRE5ffBx-z2lS8VM/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-6)]
+
+**Lecture 7** -- Here we began discussing the Runge-Kutta method for numerical integration of ODEs. [[slides](https://docs.google.com/presentation/d/1s2Z6_ofXM8JYBA70LENgYgMR_vFijCaAX-JWK53WMsk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-7)]
+
 ## Homework
 
 Follow the **assignment** links below to work on and submit each homework through GitHub Classroom. You can also view the **repository** for each homework directly.
