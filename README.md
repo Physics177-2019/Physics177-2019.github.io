@@ -21,7 +21,9 @@ Information for the course, including homework assignments and information about
 
 **Lecture 6** -- This lecture was our first introduction to numerical integration of ordinary differential equations, where we applied Euler's method. [[slides](https://docs.google.com/presentation/d/1tTsnTdeQs3ByZPXvDHLNLsC2694iRE5ffBx-z2lS8VM/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-6)]
 
-**Lecture 7** -- Here we began discussing the Runge-Kutta method for numerical integration of ODEs. [[slides](https://docs.google.com/presentation/d/1s2Z6_ofXM8JYBA70LENgYgMR_vFijCaAX-JWK53WMsk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-7)]
+**Lecture 7** -- Here we discussed the Runge-Kutta method for numerical integration of ODEs. [[slides](https://docs.google.com/presentation/d/1s2Z6_ofXM8JYBA70LENgYgMR_vFijCaAX-JWK53WMsk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-7)]
+
+**Lecture 8** -- This lecture opens our discussion of statistical physics and probability. This class focused on random number generation. [[slides](https://docs.google.com/presentation/d/1L5cLKDf5ztvLI0dHPKlH0_qTmsxhiqpYyMhq3bQ-pcc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-8)]
 
 ## Homework
 
@@ -32,6 +34,8 @@ Follow the **assignment** links below to work on and submit each homework throug
 **Homework 2** -- Numerical integration [[assignment](https://classroom.github.com/a/B8seLY--)] [[repository](https://github.com/Physics177-2019/homework-2)]  
 
 **Homework 3** -- Numerical integration of ordinary differential equations [[assignment](https://classroom.github.com/a/n3jivfDu)] [[repository](https://github.com/Physics177-2019/homework-3)]  
+
+**Homework 4** -- Different approaches to numerical integration of differential equations [[assignment](https://classroom.github.com/a/Ytnjx_Iw)] [[repository](https://github.com/Physics177-2019/homework-4)]
 
 ## Past versions of the course
 
