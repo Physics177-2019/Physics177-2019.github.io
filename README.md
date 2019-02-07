@@ -5,6 +5,7 @@
 
 Information for the course, including homework assignments and information about exams, will be posted here as we progress through the quarter.
 
+
 ## Lectures
 
 **Lecture 0** -- We began with a brief introduction to Physics 177. Computational methods are used across all physics disciplines. During this quarter, we'll consider a broad cross-sectional overview of numerical methods. [[slides](https://docs.google.com/presentation/d/1e_DADGGG-jxWuMM77yqZBbml25ItlAGIXIVb8c4HO34/edit?usp=sharing)]  
@@ -25,6 +26,13 @@ Information for the course, including homework assignments and information about
 
 **Lecture 8** -- This lecture opens our discussion of statistical physics and probability. This class focused on random number generation. [[slides](https://docs.google.com/presentation/d/1L5cLKDf5ztvLI0dHPKlH0_qTmsxhiqpYyMhq3bQ-pcc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-8)]
 
+**Lecture 9** -- Basics of calculations with probability distributions and finite sampling. [[repository](https://github.com/Physics177-2019/lecture-9)]
+
+**Lecture 10** -- Probability and statistical physics I. [[repository](https://github.com/Physics177-2019/lecture-10)]
+
+**Lecture 11** -- Probability and statistical physics II. [[slides](https://docs.google.com/presentation/d/1qIp_a0hI5VtgncQfGJL5CQV8gqzBVsi_QH-cCpppuYU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-11)]
+
+
 ## Homework
 
 Follow the **assignment** links below to work on and submit each homework through GitHub Classroom. You can also view the **repository** for each homework directly.
@@ -36,6 +44,8 @@ Follow the **assignment** links below to work on and submit each homework throug
 **Homework 3** -- Numerical integration of ordinary differential equations [[assignment](https://classroom.github.com/a/n3jivfDu)] [[repository](https://github.com/Physics177-2019/homework-3)]  
 
 **Homework 4** -- Different approaches to numerical integration of differential equations [[assignment](https://classroom.github.com/a/Ytnjx_Iw)] [[repository](https://github.com/Physics177-2019/homework-4)]
+
+**Homework 5** -- Statistical physics of a rubber band [[assignment](https://classroom.github.com/a/__kmerxh)] [[repository](https://github.com/Physics177-2019/homework-5)]
 
 ## Past versions of the course
 
