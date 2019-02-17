@@ -36,15 +36,15 @@ Feb 25 (M) - Newton's method
 *The schedule below this point is preliminary!*  
 
 **Statistical inference**  
-Feb 27 (W) -  
-Mar 01 (F) -  
-Mar 04 (M) -  
-Mar 06 (W) -  
+Feb 27 (W) -  Loss functions and linear regression  
+Mar 01 (F) -  Likelihood-based inference  
+Mar 04 (M) -  Bayesian inference  
+Mar 06 (W) -  **No class**
 
 **Data handling/visualization/machine learning**  
-Mar 08 (F) -  
-Mar 11 (M) -  
-Mar 13 (W) -  
+Mar 08 (F) -  Tidy data
+Mar 11 (M) -  Perceptron I
+Mar 13 (W) -  Perceptron II
 
 **Final exam**  
 Mar 15 (F) -  
