@@ -47,6 +47,8 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 5** -- Statistical physics of a rubber band [[assignment](https://classroom.github.com/a/__kmerxh)] [[repository](https://github.com/Physics177-2019/homework-5)]
 
+**Homework 6** -- Simulating the Ising model [[assignment](https://classroom.github.com/a/E9IuqRQC)] [[repository](https://github.com/Physics177-2019/homework-6)]
+
 ## Past versions of the course
 
 Some of the materials here are based on previous versions of the course taught by [Flip Tanedo](https://theory.ucr.edu/flip/). You can find the [2017](https://github.com/Physics177-2017) and [2018](https://physics177-2018.github.io/) versions of the course at these links.
