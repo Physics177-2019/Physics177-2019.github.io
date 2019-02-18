@@ -8,29 +8,39 @@ Information for the course, including homework assignments and information about
 
 ## Lectures
 
-**Lecture 0** -- We began with a brief introduction to Physics 177. Computational methods are used across all physics disciplines. During this quarter, we'll consider a broad cross-sectional overview of numerical methods. [[slides](https://docs.google.com/presentation/d/1e_DADGGG-jxWuMM77yqZBbml25ItlAGIXIVb8c4HO34/edit?usp=sharing)]  
+**Lecture 0** -- Introduction to Physics 177 [[slides](https://docs.google.com/presentation/d/1e_DADGGG-jxWuMM77yqZBbml25ItlAGIXIVb8c4HO34/edit?usp=sharing)]  
 
-**Lecture 1** -- We started to become familiar with the computational and organizational tools we'll be using this quarter: Python, Jupyter, and GitHub. [[slides](https://docs.google.com/presentation/d/1psQXmIiOB9k7jzUYAn0iMPfP5DaFF6zQ7NkxwhJG-YE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-1)]  
+**Lecture 1** -- Python, Jupyter, and GitHub [[slides](https://docs.google.com/presentation/d/1psQXmIiOB9k7jzUYAn0iMPfP5DaFF6zQ7NkxwhJG-YE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-1)]  
 
-**Lecture 2** -- Real numbers are represented with finite numerical precision, which can have surprising consequences. [[slides](https://docs.google.com/presentation/d/17xPbJKHU4j6qgZ9KTQKYJ4ByJbX2EV2-_86DhZgFdrc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-2)]
+**Lecture 2** -- Numerical precision [[slides](https://docs.google.com/presentation/d/17xPbJKHU4j6qgZ9KTQKYJ4ByJbX2EV2-_86DhZgFdrc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-2)]
 
-**Lecture 3** -- This lecture gave an overview of the Riemann sum and trapezoidal rule for numerical integration. [[slides](https://docs.google.com/presentation/d/1fUS5RxMuVOdT2PVUIuFO_gVxiDsbxhbpKDPMwaw-Cqw/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-3)]
+**Lecture 3** -- Numerical integration: Riemann sum and trapezoidal rule [[slides](https://docs.google.com/presentation/d/1fUS5RxMuVOdT2PVUIuFO_gVxiDsbxhbpKDPMwaw-Cqw/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-3)]
 
-**Lecture 4** -- This time we covered Simpson's rule for numerical integration. [[slides](https://docs.google.com/presentation/d/1cfUQnty9q9oY1DA5GVrXsAkr30USlXsU1qwGcx1t8mk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-4)]
+**Lecture 4** -- Numerical integration: Simpson's rule [[slides](https://docs.google.com/presentation/d/1cfUQnty9q9oY1DA5GVrXsAkr30USlXsU1qwGcx1t8mk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-4)]
 
-**Lecture 5** -- We reviewed error analysis for numerical integrals, including an approximation for finding the error when we don't have an analytical expression for derivatives. [[slides](https://docs.google.com/presentation/d/1YixF6nGuq2cbPo7uG0gZWn3zlN8q5OGsQw-chBqYEDc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-5)]
+**Lecture 5** -- Numerical integration: Error analysis [[slides](https://docs.google.com/presentation/d/1YixF6nGuq2cbPo7uG0gZWn3zlN8q5OGsQw-chBqYEDc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-5)]
 
-**Lecture 6** -- This lecture was our first introduction to numerical integration of ordinary differential equations, where we applied Euler's method. [[slides](https://docs.google.com/presentation/d/1tTsnTdeQs3ByZPXvDHLNLsC2694iRE5ffBx-z2lS8VM/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-6)]
+**Lecture 6** -- Differential equations: Euler's method [[slides](https://docs.google.com/presentation/d/1tTsnTdeQs3ByZPXvDHLNLsC2694iRE5ffBx-z2lS8VM/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-6)]
 
-**Lecture 7** -- Here we discussed the Runge-Kutta method for numerical integration of ODEs. [[slides](https://docs.google.com/presentation/d/1s2Z6_ofXM8JYBA70LENgYgMR_vFijCaAX-JWK53WMsk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-7)]
+**Lecture 7** -- Differential equations: Runge-Kutta method [[slides](https://docs.google.com/presentation/d/1s2Z6_ofXM8JYBA70LENgYgMR_vFijCaAX-JWK53WMsk/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-7)]
 
-**Lecture 8** -- This lecture opens our discussion of statistical physics and probability. This class focused on random number generation. [[slides](https://docs.google.com/presentation/d/1L5cLKDf5ztvLI0dHPKlH0_qTmsxhiqpYyMhq3bQ-pcc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-8)]
+**Lecture 8** -- Random number generation [[slides](https://docs.google.com/presentation/d/1L5cLKDf5ztvLI0dHPKlH0_qTmsxhiqpYyMhq3bQ-pcc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-8)]
 
-**Lecture 9** -- Basics of calculations with probability distributions and finite sampling. [[repository](https://github.com/Physics177-2019/lecture-9)]
+**Lecture 9** -- Calculations with probability distributions [[repository](https://github.com/Physics177-2019/lecture-9)]
 
-**Lecture 10** -- Probability and statistical physics I. [[repository](https://github.com/Physics177-2019/lecture-10)]
+**Lecture 10** -- Probability and statistical physics I [[repository](https://github.com/Physics177-2019/lecture-10)]
 
-**Lecture 11** -- Probability and statistical physics II. [[slides](https://docs.google.com/presentation/d/1qIp_a0hI5VtgncQfGJL5CQV8gqzBVsi_QH-cCpppuYU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-11)]
+**Lecture 11** -- Probability and statistical physics II [[slides](https://docs.google.com/presentation/d/1qIp_a0hI5VtgncQfGJL5CQV8gqzBVsi_QH-cCpppuYU/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-11)]
+
+**Lecture 12** -- The Ising model [[slides](https://docs.google.com/presentation/d/15gx1E_6sNsMnVbiffYW0zf0nPAFbnX1ZulQCdoK6vvo/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-12)]  
+
+**Lecture 13** -- Markov chain Monte Carlo [[slides](https://docs.google.com/presentation/d/1zfOAMskmOplZZk-0u-XaFWFFncph_0j0XiNfa4DvkOc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-13)]
+
+**Lecture 14** -- Practical MCMC [[slides](https://docs.google.com/presentation/d/1Y5pGhHMqdWL5YJE-4QVpfZknISZZWAwlLngbI8EVqxM/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-14)]
+
+**Lecture 15** -- Convex optimization [[slides](https://docs.google.com/presentation/d/1E8CNLOvAuhZsPtghiXP5mYtddQNh98ixaSm5Zi0upRc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-15)]
+
+**Lecture 16** -- Line search [[slides]()] [[repository](https://github.com/Physics177-2019/lecture-16)]
 
 
 ## Homework
