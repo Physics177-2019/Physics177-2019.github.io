@@ -40,8 +40,11 @@ Information for the course, including homework assignments and information about
 
 **Lecture 15** -- Convex optimization [[slides](https://docs.google.com/presentation/d/1E8CNLOvAuhZsPtghiXP5mYtddQNh98ixaSm5Zi0upRc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-15)]
 
-**Lecture 16** -- Line search [[slides]()] [[repository](https://github.com/Physics177-2019/lecture-16)]
+**Lecture 16** -- Line search [[slides](https://docs.google.com/presentation/d/1FO6AhDNm7bk2y9AkuYy79KAKVb9AG7IuB1peIM2PdjM/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-16)]
 
+**Lecture 17** -- Newton's method [[slides](https://docs.google.com/presentation/d/1WWWUFTWmIRmlAbJGmGIxs1_R7OjwNpbbe1bon_99ARY/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-17)]
+
+**Lecture 18** -- Loss functions and regression [[slides](https://docs.google.com/presentation/d/1YiTWNANFnDwoyFyQW1ORL3mHGWVAzL0PZjCkBx9gL-A/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-18)]
 
 ## Homework
 
@@ -58,6 +61,8 @@ Follow the **assignment** links below to work on and submit each homework throug
 **Homework 5** -- Statistical physics of a rubber band [[assignment](https://classroom.github.com/a/__kmerxh)] [[repository](https://github.com/Physics177-2019/homework-5)]
 
 **Homework 6** -- Simulating the Ising model [[assignment](https://classroom.github.com/a/E9IuqRQC)] [[repository](https://github.com/Physics177-2019/homework-6)]
+
+**Homework 7** -- Optimization for physics [[assignment](https://classroom.github.com/a/pZfdhcM9)] [[repository](https://github.com/Physics177-2019/homework-7)]
 
 ## Past versions of the course
 
