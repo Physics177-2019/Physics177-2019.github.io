@@ -64,6 +64,8 @@ Follow the **assignment** links below to work on and submit each homework throug
 
 **Homework 7** -- Optimization for physics [[assignment](https://classroom.github.com/a/pZfdhcM9)] [[repository](https://github.com/Physics177-2019/homework-7)]
 
+**Homework 8** -- Inference for the Ising model [[assignment](https://classroom.github.com/a/0EdnYQ4h)] [[repository](https://github.com/Physics177-2019/homework-8)]
+
 ## Past versions of the course
 
 Some of the materials here are based on previous versions of the course taught by [Flip Tanedo](https://theory.ucr.edu/flip/). You can find the [2017](https://github.com/Physics177-2017) and [2018](https://physics177-2018.github.io/) versions of the course at these links.
