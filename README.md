@@ -46,6 +46,14 @@ Information for the course, including homework assignments and information about
 
 **Lecture 18** -- Loss functions and regression [[slides](https://docs.google.com/presentation/d/1YiTWNANFnDwoyFyQW1ORL3mHGWVAzL0PZjCkBx9gL-A/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-18)]
 
+**Lecture 19** -- Maximum likelihood [[slides](https://docs.google.com/presentation/d/1L5mKqJYrfGh_x-b2r8sla1YVHr0heAANSMfnPU825Wc/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-19)]  
+
+**Lecture 20** -- Bayesian inference [[slides](https://docs.google.com/presentation/d/1ui9bNfIB_I16CPbcuemsw_dj6THLsVrvHq0STRB1W7I/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-20)]  
+
+**Lecture 21** -- Data handling [[slides](https://docs.google.com/presentation/d/1tl-N5x1p5kb3D4bl0fQtjVg7xHFa4Kpg42tIPvB_wSE/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-21)]  
+
+**Lecture 22** -- Outlook [[slides](https://docs.google.com/presentation/d/1ovu4j2ovxMc7jOk7fnuSjPIgy8WkgmNjokfG3u-rfng/edit?usp=sharing)] [[repository](https://github.com/Physics177-2019/lecture-22)]  
+
 ## Homework
 
 Follow the **assignment** links below to work on and submit each homework through GitHub Classroom. You can also view the **repository** for each homework directly.
